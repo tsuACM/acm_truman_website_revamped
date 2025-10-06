@@ -14,3 +14,7 @@ Welcome to the official GitHub repository for the **ACM @ Truman State Universit
 - **Icons:** TBD
 - **Hosting:** sand (planned, ice if it is up)
 - **Version Control:** Git + GitHub
+
+
+
+Hello world
